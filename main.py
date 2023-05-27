@@ -154,6 +154,5 @@ print(another_lecturer > great_lecturer)
 
 rate_list_of_lecturers([another_lecturer, great_lecturer], 'Python')
 rate_list_of_lecturers([another_student, great_lecturer, another_lecturer], 'Python')
-
 rate_list_of_students([best_student, another_student], 'Python')
 rate_list_of_students([best_student, another_student], 'C++')
